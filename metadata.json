@@ -1,0 +1,6 @@
+{
+  "name": "VoxTask",
+  "description": "Smart Voice & Offline Reminders",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
